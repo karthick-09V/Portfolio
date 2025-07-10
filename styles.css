@@ -10,7 +10,7 @@
   /* --hue-color: 224; */
   /* --first-color: hsl(var(--hue-color), 90%, 45%); */
   --second-color: hsl(var(--hue-color), 56%, 12%);
-  --first-color: #1fde58f1;
+  --first-color: rgb(33, 192, 99);
   /* --second-color: black; */
   /*===== Fuente y tipografia =====*/
   --body-font: "Poppins", sans-serif;
